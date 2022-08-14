@@ -26,5 +26,5 @@ From reading to the cleaning, I have got the data and taken it to data visualiza
 ![vs reviews](https://user-images.githubusercontent.com/68191137/183888523-64ebe45c-76a0-47be-b562-f69e2573f610.PNG)
 
 #### We can conclude: 
-#### ⬆️ Max Price: Communication Apps
-#### ⬇️ Min Price: Events Apps
+#### ⬆️ Max Reviews: Communication Apps
+#### ⬇️ Min Reviews: Events Apps
